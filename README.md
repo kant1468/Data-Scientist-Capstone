@@ -17,9 +17,9 @@ The code is saved in `.ipynb` file and can be run with any tool that support thi
 
 ## Results
 
-For the code, please check the notebook `Sparkify.ipynb`.
+For the code, please check the notebook [Sparkify.ipynb](Sparkify.ipynb).
 
-The findings of this project already published follow the link:
+The findings of this project already published follow the link [here](https://medium.com/@tridhfpt/sparkify-exploring-user-retention-and-churn-factors-caddc41bd9b0).
 
 ## Data
 
